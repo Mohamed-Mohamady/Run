@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle run",
+        "command": "run:compile"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "run",
+          "submenu": [
+            {
+              "label": "Compile",
+              "command": "run:compile"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
