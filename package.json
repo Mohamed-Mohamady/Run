@@ -2,6 +2,7 @@
   "name": "run",
   "main": "./lib/main",
   "version": "0.1.0",
+  "private": true,
   "description": "Compile and execute C and C++ source files",
   "keywords": [
   ],
