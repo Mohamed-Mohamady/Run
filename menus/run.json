@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle run",
+        "label": "Compile current file",
         "command": "run:compile"
       }
     ]
@@ -17,6 +17,10 @@
             {
               "label": "Compile",
               "command": "run:compile"
+            },
+            {
+              "label": "Debug",
+              "command": "run:debug"
             }
           ]
         }
