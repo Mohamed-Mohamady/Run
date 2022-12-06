@@ -1,6 +1,11 @@
 # Run package
 
-A package for [atom text editor](https://atom.io) to compile and execute C and C++ source files instantly
+A package for [atom text editor](https://atom.io) to compile and execute C and C++ source files instantly.
+
+## Requirements
+
+- gcc
+- g++
 
 ## Basic usage
 
