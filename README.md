@@ -6,6 +6,7 @@ A package for [atom text editor](https://atom.io) to compile and execute C and C
 
 - gcc
 - g++
+- gdb
 
 ## Basic usage
 
