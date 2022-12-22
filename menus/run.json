@@ -21,6 +21,15 @@
             {
               "label": "Debug",
               "command": "run:debug"
+            },
+            {
+              "label": "Build",
+              "submenu": [
+                {
+                  "label": "Build",
+                  "command": "run:build"
+                }
+              ]
             }
           ]
         }
