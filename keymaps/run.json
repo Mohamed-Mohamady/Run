@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "F5": "run:compile",
-    "F6": "run:debug"
+    "F6": "run:debug",
+    "F9": "run:build"
   }
 }
